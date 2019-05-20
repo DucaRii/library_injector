@@ -1,5 +1,5 @@
 # library_injector
-Inject dynamic link libraries (.dll) into a target process
+Inject dynamic link libraries (.dll) into a target windows process
 
 ```
 #define DLL_NAME "target_lib.dll"
